@@ -32,10 +32,12 @@ src="https://img.shields.io/github/followers/Dharshan-B?logo=github&style=for-th
 
 <p align="left"> <a href="https://www.github.com/Dharshan-B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
-<b>My GitHub Stats</b>
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/Dharshan-B/count.svg?align=center)
 
-<a href="http://www.github.com/Dharshan-B"><img src="https://github-readme-stats.vercel.app/api?username=Dharshan-B&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true alt=Dharshan's GitHub stats"/></a>
+
+<!-- GITHUB STATISTICS -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=Dharshan-B) 
 
 
 <a href="http://www.github.com/Dharshan-Bt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan-B&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
