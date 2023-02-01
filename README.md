@@ -4,11 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 STUDENT || LEARNER || PASSIONATE ABOUT PROGRAMMING
 --------------------------------------------------
 
-I just started my coding journey . My coding skills are basic now and I am consistently working on it. Currently making my journey with java basics, GUI , multithreading , so on,. Have some knowledge on python ,c and c++ only basics. Syntactically good, learning logical .thank you.
-
-* 🌍  I'm based in India
-* 🧠  I'm learning Java programming
-* 🤝  I'm open to collaborating on Java projects
+* 🧠  I'm CS student
+* 🤝  I'm open to collaborating on projects 
 * ⚡  My policy: think twice,code once
 
 
