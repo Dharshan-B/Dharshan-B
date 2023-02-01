@@ -10,12 +10,8 @@ STUDENT || LEARNER || PASSIONATE ABOUT PROGRAMMING
 
 
 ### Skills
-
-
-<p align="left">
-<a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" style="background-color:lightblue;" height="36" alt="Coffeescript" ></a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" ></a>
+1.Basic Java
+2.Basic Python
 
 ### Views On ME:
 
