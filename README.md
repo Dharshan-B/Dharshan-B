@@ -11,9 +11,8 @@ I just started my coding journey . My coding skills are basic now and I am consi
 * 🤝  I'm open to collaborating on Java projects
 * ⚡  My policy: think twice,code once
 
-<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-/></a><a href="https://www.github.com/Dharshan-B" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/Dharshan-B" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dharshan-B?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 
 ### Skills
