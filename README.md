@@ -10,7 +10,7 @@ STUDENT || LEARNER || PASSIONATE ABOUT PROGRAMMING
 
 
 ### Skills
-1.Basic Java
+1.Basic Java <br>
 2.Basic Python
 
 ### Views On ME:
