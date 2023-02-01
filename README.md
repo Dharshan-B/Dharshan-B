@@ -9,9 +9,6 @@ STUDENT || LEARNER || PASSIONATE ABOUT PROGRAMMING
 * ⚡  My policy: think twice,code once
 
 
-<a href="https://www.github.com/Dharshan-B" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dharshan-B?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
-
 ### Skills
 
 
