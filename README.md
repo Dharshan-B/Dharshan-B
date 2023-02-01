@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/Dharshan-B?logo=github&style=for-th
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/Dharshan-B/count.svg?align=center)
 
-
+### <b> Statistics:</b>
 <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Dharshan-B) 
 
