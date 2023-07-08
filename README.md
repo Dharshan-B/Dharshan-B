@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GitHub Profile</title>
+  GitHub Profile
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
   <header>
-    <!-- Add your profile picture and name here -->
+  <img src="Dharshan.png" alt="Profile Picture">
+  <h1>Dharshan</h1>
   </header>
 
   <nav>
