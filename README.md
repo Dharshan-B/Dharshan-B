@@ -7,7 +7,7 @@
 <body>
   <header>
   <img src="Dharshan.png" alt="Profile Picture">
-  <h1>Dharshan</h1>
+  <h1>Dharshan.B</h1>
   </header>
 
   <nav>
