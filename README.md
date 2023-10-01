@@ -1,5 +1,5 @@
 # 💫 About Me:
-Development<br>Self Leaner<br>peace mind
+Java Learner<br>Java Programs<br>Coding 
 
 
 # 💻 Tech Stack:
