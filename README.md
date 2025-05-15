@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Learner<br>Java Programs<br>Coding 
+A Motivated Guy from an Engineering Background with CS Degree. I am Dharshan, my interest in AI/ML and Clound Computing makes me to think About the Innovation and their results. Over my academic years i developed Serveral impactful Projects such as Voice Controlled and Object Detection , Mutiple Disease Prediction system and Cloud Based Healthcare Bot ,etcs. As a programmer i always have my own mantra <b>Think twice Do once<b>   
 
 
 # 💻 Tech Stack:
